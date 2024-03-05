@@ -1,1 +1,1 @@
-# GL_Project Vision control.
+# GL_Project Version control.
